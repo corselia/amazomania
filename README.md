@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/corselia/amazomania/tree/master.svg?style=svg)](https://circleci.com/gh/corselia/amazomania/tree/master)
+
 # Amazomania
 - you can get product sales data of `amazon.co.jp`
 - for example, lowest price, shop name, shipping price, condition and etc
