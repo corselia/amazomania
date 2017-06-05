@@ -5,8 +5,8 @@
 - for example, lowest price, shop name, shipping price, condition and etc
 
 ## Installation
-```ruby
-gem 'amazomania'
+```bash
+$ gem install 'amazomania'
 ```
 
 ## Usage
@@ -14,12 +14,16 @@ gem 'amazomania'
 #### basical format
 
 ```ruby
+require 'amazomania'
+
 Amazomania.data(ASIN) #=> Array
 ```
 
 #### example
 
 ```ruby
+require 'amazomania'
+
 sales_data = Amazomania.data("B01N06V253")
 p sales_data
 ```
