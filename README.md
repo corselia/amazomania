@@ -35,28 +35,28 @@ p sales_data
 ```ruby
 sales_data = [
   {
-    shop: "shop_a",
-    price: 100,
-    main_condition: "新品",
-    sub_condition: "新品",
-    shipping_price: 500,
-    amazon_point: 0
+    :shop => "shop_a",
+    :price => 100,
+    :main_condition => "新品",
+    :sub_condition => "新品",
+    :shipping_price => 500,
+    :amazon_point => 0
   },
   {
-    shop: "shop_b",
-    price: 500,
-    main_condition: "新品",
-    sub_condition: "新品",
-    shipping_price: 350,
-    amazon_point: 0
+    :shop => "shop_b",
+    :price => 500,
+    :main_condition => "新品",
+    :sub_condition => "新品",
+    :shipping_price => 350,
+    :amazon_point => 0
   },
   {
-    shop: "shop_c",
-    price: 1000,
-    main_condition: "中古品",
-    sub_condition: "非常に良い",
-    shipping_price: 150,
-    amazon_point: 0
+    :shop => "shop_c",
+    :price => 1000,
+    :main_condition => "中古品",
+    :sub_condition => "非常に良い",
+    :shipping_price => 150,
+    :amazon_point => 0
   }
 ]
 ```
