@@ -62,6 +62,7 @@ sales_data = [
 - too many accesses in short time occurs `Amazon CAPTCHA` and you don't access product page
 - if shipping price is different by living place, this result is based on Tokyo
 - maybe available at `amazon.com`?
+- when html code is changed, this gem runs incorrectly X-(
 
 ## Development
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
