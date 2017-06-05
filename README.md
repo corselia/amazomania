@@ -4,6 +4,9 @@
 - you can get product sales data of `amazon.co.jp`
 - for example, lowest price, shop name, shipping price, condition and etc
 
+## Required
+- [**PhantomJS**](http://phantomjs.org/)
+
 ## Installation
 ```bash
 $ gem install 'amazomania'
