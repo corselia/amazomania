@@ -62,6 +62,7 @@ sales_data = [
 ```
 
 ## Notes
+- paging is not implemented so max data count is 10
 - too many accesses in short time occurs `Amazon CAPTCHA` and you don't access product page
 - in case shipping price is based on living place, it's on Tokyo
 - maybe available at `amazon.com`?
